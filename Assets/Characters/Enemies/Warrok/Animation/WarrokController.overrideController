@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WarrokController
+  m_Controller: {fileID: 9100000, guid: 9a0a23878f788254896b1fe5257ac7f1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 218436274e6417947858baaf6faccf6c,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 218436274e6417947858baaf6faccf6c,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 59a2a2d9970f9c144a5ddb519bdf1f70,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 59a2a2d9970f9c144a5ddb519bdf1f70,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: abe4e3ce567b96d44bffde0c668bdc2f,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: abe4e3ce567b96d44bffde0c668bdc2f,
+      type: 3}
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 3f02cd1be9dcd6f4e83ebec9938b80cb,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 3f02cd1be9dcd6f4e83ebec9938b80cb,
+      type: 3}
