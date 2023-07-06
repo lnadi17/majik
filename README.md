@@ -1,6 +1,8 @@
 # majik
 
-Majik is a demo game created for a job interview, which had to meet specific requirements:
+Majik is a demo game created in Unity, which was for a job interview. It showcases various features and meets specific gameplay requirements.
+
+## Features
 - Camera:
     - Implement camera functionality to follow the character's movement.
     - Include zoom in/out functionality for the camera.
@@ -18,6 +20,7 @@ Majik is a demo game created for a job interview, which had to meet specific req
     - Implement an enemy spawner within the scene to periodically generate multiple enemies.
     - Include obstacles within the scene that enemies must navigate to reach the player.
 
+## Gameplay
 Here are some of the gameplay GIFs showcasing different features:
 
 1. Player, Camera, Environment, Arrow Hit Physics \
